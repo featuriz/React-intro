@@ -4,9 +4,10 @@ React Introduction with hello world + plugins and running
 
 ### Highlights
 
-- [React js] (https://reactjs.org/docs/cdn-links.html)
-- [Babel js] (https://babeljs.io/setup#installation)
-- [Create React App] (https://github.com/facebook/create-react-app)
+- [React js](https://reactjs.org/docs/cdn-links.html)
+- [Babel js](https://babeljs.io/setup#installation)
+- [Create React App](https://github.com/facebook/create-react-app)
+- [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 ### Tutorial
 
